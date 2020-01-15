@@ -4,21 +4,27 @@ title: About
 permalink: /about/
 ---
 
-Brew Coffee is a pour-over recipe app for Hario V60 and Chemex. It has been in research and development since 2014. Up until now it has only been available for friends and family, but now I'm opening it up to additional beta testers like you.
 
-**Pour-over coffee is difficult.** I had no idea what I was doing when I first used the Hario V60 in 2012, and the Chemex did not seem any easier.
+[Brew Coffee](https://signup.brewcoffeeapp.com) is a pour-over recipe app designed for Hario V60 and Chemex. It has been in research and development since 2014. And until now, it has only been available for friends and family.
 
-Over the years I have learned that even with the best equipment it is very easy to mess up your morning coffee. Two fo the biggest issues are grind size (how fine or coarse to grind your coffee beans) and how fast to pour (too slow or too fast will make your coffee taste bitter or watery).
+*I need your help to finish the app and to put the final pieces in place.*
 
-Being both a runner and an app developer I melded two concepts together as a way to simplify my morning routine. I needed a pacer to keep me on track with my pour, and I wanted to avoid the early morning math calculations (before I had any caffeine).
+**Pour-over coffee is hard.** There are so many steps, variables, conflicting recipes, and techniques that it is hard to know what to do as a beginner. I started making pour-over coffee in 2012, and I have had to overcome numerous obstacles and bad cups of coffee.
 
-Using the app Brew Coffee, combined with the insights from Joe Bean Coffee Roasters, I was able to create the perfect recipe for my morning pour-over coffee. Day to day my results are more consistent, and I have been able to improve my craft as a home barista.
+> Even with the best equipment, it is easy to mess up your morning pour-over coffee.
 
-I encourage you to [sign up for the beta](https://signup.brewcoffeeapp.com), and you will learn how to finally make a great, consistent cup of pour-over coffee in the morning.
+The two biggest issues are grind size (how fine or coarse to grind your coffee beans) and how fast to pour (too slow or too quick will make your coffee taste bitter or watery).
 
-Thank you for joining me on your pour-over coffee journey. I look forward to hearing from you.
+Being both a runner and an iOS app developer, I melded two concepts together. I needed a pacer to keep me on track with my pour, and I wanted to avoid the early morning math calculations (before I had any caffeine).
+
+Brew Coffee was created using insights from Joe Bean Coffee Roasters and my hands-on experience. The app gives me confidence with my craft and has allowed my friends and family to make great coffee at home.
+
+[Click the link to sign up for the Brew Coffee beta](https://signup.brewcoffeeapp.com), and you will learn how to *finally* make a **delicious, smooth cup of pour-over coffee** every morning.
+
+Thank you for joining me on your pour-over coffee journey. 
 
 -Paul Solt
-Paul@BrewCoffeeApp.com
+
+[Paul@BrewCoffeeApp.com](mailto:Paul@BrewCoffeeApp.com)
 
 PS I read every email. After you [sign up for the beta](https://signup.brewcoffeeapp.com), hit REPLY to my email and tell me your coffee story.
