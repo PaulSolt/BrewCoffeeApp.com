@@ -12,6 +12,6 @@ menu: main
 How do you know if you have the right grind size? What's the best grind setting? How does grind size affect the taste, flow, etc.? In this workshop, you will learn how to make better pour-over coffee by using the best grind size.
 
 <script src="https://brewcoffee.ck.page/commerce.js" async defer></script>
-<a class="convertkit-button" href="https://brewcoffee.ck.page/products/dial-in-the-best-grind-size" data-commerce>Register for Workshop</a>
+<a class="convertkit-button" href="https://brewcoffee.ck.page/products/dial-in-the-best-grind-size" data-commerce>Register Now</a>
 
 
