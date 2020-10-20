@@ -79,7 +79,7 @@ Hario V60 Coffee: How to Find the Best Grind Size Quickly
 
 How do you know if you have the right grind size? What's the best grind setting? How does grind size affect the taste, flow, etc.?
 
-In this guide I will teach you how to approach your grind setting with more precision so that you can make **better Hario V60 coffee**. These approaches will work with any pour-over brew method, but because Hario V60 is more sensitive, I will focus on factors that make it harder to acheive consistency.
+In this guide I will teach you how to approach your grind setting with more precision so that you can make **better Hario V60 coffee**. These approaches will work with any pour-over brew method, but because Hario V60 is more sensitive, I will focus on factors that make it harder to achieve consistency.
 
 Hario V60 is harder to make than Chemex because you are brewing smaller amounts of coffee. Any time you work with smaller quantities, the small errors in weight can play a bigger roll in affecting the final brew.
 
@@ -238,8 +238,7 @@ These recipes were calibrated from my local roaster, and they work. Stop guessin
 
 Register to join the Brew Coffee Beta test. (And subscribe for weekly pour-over emails)
 
-## The Top 3 Hario V60 Issues
-
+## The Top 3 Hario V60 Issues (Fix these first)
 
 When it comes to Hario V60 there are three Hario V60 Issues that you need to address in the order from most impactful to least impactful.
 
@@ -265,9 +264,82 @@ Usually it will take doing this process 2-3 times per brew device that you use. 
 
 1. Pick a starting grind size
 2. Grind coffee and brew a Hario V60 (taste and set aside)
-3. Adjust the grind setting based on how it tastes and repeat step 1
+3. Adjust the grind setting one notch based on how it tastes (and drains) and repeat step 2
 
-### Adjust the Grind Setting using your Taste
+### Adjust the Grind Setting using Timing
+
+The first adjustments will be based on the drain time of the Hario V60.
+
+The Standard Hario V60 recipe I use is in [Brew Coffee](https://BrewCoffeeApp.com) is:
+
+* 0:30 Bloom
+* 2:30 Pour
+* 3:00 Drain
+
+Using:
+
+* 21g coffee 
+* 340g water (212ºF)
+* 2:1 bloom ratio (42g bloom)
+
+For denser coffees or decaf, I adjust the timing to finish my pour by 2:10 minutes, so that it has time to finish draining closer to 3 minutes.
+
+**Your goal with this recipe is always to try to finish within 3 minutes.**
+
+Do not vary your target end time, or you are introducing a new variable that will make it impossible to fine tune your grind size.
+
+**Drains too fast (under 2 minutes)**
+
+Your grind size is too coarse, adjust the grind to be finer.
+
+**Drains too slow (over 4 minutes)**
+
+Your grind size is too fine, adjust the grind to be coarser.
+
+**Drains too fast (2:30 - 3:00)**
+
+Your grind size may be almost right, now you need to try adjusting the way you pour. Use the standard pour time of 2:30.
+
+**Drains too slow (3:00 - 3:30)**
+
+Your grind size may be almost right, now you need to adjust how you pour. Use the Fast Hario V60 pour time of 2:10.
+
+**Decaf is slow**
+
+Decaf will be slower than regular. Don't adjust the grind size, just plan on draining for an extra minute. Your target finish will be 4:00.
+
+I tend to use 2:10 for my pour time, so that I have more time to finish draining.
+
+### Fine Tune the Grind Setting using Your Taste
+
+As you brew coffee you will notice that the coffee in your initial brews is going to taste sour, watery, bitter, strong, or sweet.
+
+If your Hario is finishing the drain near 3 minutes, you may have the right grind size, but now you need to tune your pour technique.
+
+The easiest way to fine tune your pour technique consistently is to use the Brew Coffee app and adjust the "Pour" time.
+
+**Taste is bitter or drying**
+
+If your mouth puckers a little from the drying sensation, you have over extracted your coffee. Most likely your drain finished after 3 minutes (3:30+?).
+
+Try to pour faster using an end "Pour" time between: 2:10 - 2:20.
+
+**Taste is watery or sour**
+
+If the coffee tastes too weak, you have under extracted your coffee. Most likely your drain finished before 3 minutes (< 2:30?)
+
+Try to pour slower using an end "Pour" time around 2:30.
+
+
+**Taste is Sweet and Full Body**
+
+This is what you should always strive for in terms of taste. A great cup of coffee is going to be sweet, because you've extracted the optimal flavor compounds.
+
+It takes practice to pick up on these tastes, but the more you do it, the better you'll be at seeing the difference.
+
+
+
+
 
 
 * Grind Size Triage
